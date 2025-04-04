@@ -1,2 +1,2 @@
-# First-codes
+# First-code
 print('Hello, World!')
